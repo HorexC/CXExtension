@@ -18,6 +18,7 @@
 		84A538121B969FB200252818 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A5380F1B969FB200252818 /* User.m */; };
 		84A538151B96C6D000252818 /* CXFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A538141B96C6D000252818 /* CXFoundation.m */; };
 		84A538191B96DA8300252818 /* NSObject+CXIvar.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A538181B96DA8300252818 /* NSObject+CXIvar.m */; };
+		84CD30E61CA8D337002379F4 /* JustTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 84CD30E51CA8D337002379F4 /* JustTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +58,8 @@
 		84A538161B96C9F900252818 /* CXConst.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CXConst.h; sourceTree = "<group>"; };
 		84A538171B96DA8300252818 /* NSObject+CXIvar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+CXIvar.h"; sourceTree = "<group>"; };
 		84A538181B96DA8300252818 /* NSObject+CXIvar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+CXIvar.m"; sourceTree = "<group>"; };
+		84CD30E41CA8D337002379F4 /* JustTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JustTest.h; sourceTree = "<group>"; };
+		84CD30E51CA8D337002379F4 /* JustTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JustTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				84A538131B96C6D000252818 /* CXFoundation.h */,
 				84A538141B96C6D000252818 /* CXFoundation.m */,
 				84A538161B96C9F900252818 /* CXConst.h */,
+				84CD30E41CA8D337002379F4 /* JustTest.h */,
+				84CD30E51CA8D337002379F4 /* JustTest.m */,
 			);
 			path = CXExtension;
 			sourceTree = "<group>";
@@ -183,6 +188,7 @@
 				84A538121B969FB200252818 /* User.m in Sources */,
 				84A538031B968C3200252818 /* NSObject+CXCoding.m in Sources */,
 				843B1F181B95B07800A1FEA8 /* CXIvar.m in Sources */,
+				84CD30E61CA8D337002379F4 /* JustTest.m in Sources */,
 				84A538191B96DA8300252818 /* NSObject+CXIvar.m in Sources */,
 				84A538101B969FB200252818 /* Status.m in Sources */,
 				84A538091B9692B400252818 /* NSObject+CXKeyValue.m in Sources */,

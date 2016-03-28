@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'CXExtension'
-    s.version      = '1.0.1'
+    s.version      = '1.0.2'
     s.summary      = 'exchange model to json or more'
     s.homepage     = 'https://github.com/HorexC/CXExtension'
     s.license      = 'MIT'
